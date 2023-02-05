@@ -1,0 +1,14 @@
+installed.packages("usethis")
+usethis::use_git_config(
+# nombre usuario
+use.name="amataste"
+# email
+user.email= "amatas@uma.es"
+usethis::use_git_config(
+# nombre usuario
+use.name="amataste",
+# email
+user.email="amatas@uma.es"
+)
+usethis::create_github_token()
+gitcreds::gitcreds_set()

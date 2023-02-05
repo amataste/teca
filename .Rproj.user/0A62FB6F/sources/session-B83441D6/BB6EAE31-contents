@@ -1,0 +1,7 @@
+[user]
+	email = amatas@uma.es
+	name = amataste
+[credential]
+	helper = cache
+[use]
+	name = amataste
